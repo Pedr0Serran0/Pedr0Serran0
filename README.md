@@ -4,13 +4,14 @@
 
 <br>
 
-## 💫 Sobre Mim
+# 💫 Sobre Mim
 **Estudante de Engenharia | Apaixonado por Programação para DM**
 
 🚀 *Sempre em busca de novos desafios e aprendizados no mundo do desenvolvimento de software.*
 
 📍 **Valongo, Portugal**
 
+<br>
 <br>
 
 🌐 **Conecte-se comigo:**
