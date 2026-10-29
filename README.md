@@ -9,7 +9,7 @@
 
 🚀 *Sempre em busca de novos desafios e aprendizados no mundo do desenvolvimento de software.*
 
-📍 **Valongo, Portugal**
+📍 **Porto, Portugal**
 
 <br>
 <br>
