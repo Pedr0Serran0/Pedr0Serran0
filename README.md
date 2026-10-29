@@ -1,6 +1,4 @@
-:
-
-💫 Sobre Mim:
+#💫 Sobre Mim:
 
 👋 Olá, eu sou o Pedro Serrano
 
