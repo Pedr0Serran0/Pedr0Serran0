@@ -1,13 +1,13 @@
 <div align="center">
 
-# ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'am%20o%20Pedro%20Serrano&fontSize=70&animation=fadeIn)
+# ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Pedro%20Serrano&fontSize=70&animation=fadeIn)
 
 <br>
 
 # 💫 About Me
-**Estudante de Engenharia | Apaixonado por Programação para DM**
+**Engineering Student | Passionate about Programming for DM**
 
-🚀 *Sempre em busca de novos desafios e aprendizados no mundo do desenvolvimento de software.*
+🚀 *Always looking for new challenges and learning opportunities in the world of software development.*
 
 📍 **Porto, Portugal**
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🌐 **Conecte-se comigo:**
+### 🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-b564771bb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosrfernandes@gmail.com)
 
@@ -25,7 +25,7 @@
 ---
 
 ### 💻 Tech Stack
-*As ferramentas que utilizo para transformar ideias em código*
+*The tools I use to turn ideas into code*
 
 <br>
 
@@ -36,7 +36,7 @@
 ---
 
 ### 📊 GitHub Stats
-*Meu progresso e linguagens mais utilizadas*
+*My progress and most-used languages*
 
 <br>
 
@@ -51,12 +51,12 @@
 ---
 
 ### 🧠 Philosophy
-# "Só suporta o processo quem tem propósito."
+# "Only those with purpose can endure the process."
 
 <br>
 
-### 🚀 Projetos Futuros
-**⌛ Em breve...**
+### 🚀 Future Projects
+**⌛ Coming soon...**
 
 <br>
 
