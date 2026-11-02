@@ -1,10 +1,10 @@
 <div align="center">
 
-# ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Olá,%20sou%20o%20Pedro%20Serrano&fontSize=70&animation=fadeIn)
+# ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'am%20o%20Pedro%20Serrano&fontSize=70&animation=fadeIn)
 
 <br>
 
-# 💫 Sobre Mim
+# 💫 About Me
 **Estudante de Engenharia | Apaixonado por Programação para DM**
 
 🚀 *Sempre em busca de novos desafios e aprendizados no mundo do desenvolvimento de software.*
